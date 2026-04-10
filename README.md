@@ -32,8 +32,9 @@
 ---
 
 ### 📈 GitHub Stats
-![Sandanila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandanila&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandanila&layout=compact&theme=radical)
+![Sandanila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandanila&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandanila&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
