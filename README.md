@@ -36,6 +36,8 @@
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandanila&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandanila&theme=radical)
+
 ---
 
 ### ⚡ My Interests & Focus
